@@ -22,3 +22,4 @@ You are developing an application that helps users manage and control various el
 <li>SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().</li><br><br>
 </ul>
 <h3>UML Class Diagram:</h3>
+<img width="2672" height="1637" alt="POAS_UML" src="https://github.com/user-attachments/assets/dcfcc21e-2133-4353-bd36-a9c0c389b29c" />
