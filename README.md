@@ -23,3 +23,4 @@ You are developing a school management application that helps administrators man
 </ul>
 
 <h3>UML Class Diagram:</h3>
+<img width="2741" height="1770" alt="SMS_UML" src="https://github.com/user-attachments/assets/8db2afb0-9dc8-435e-8e18-fde790a65cb2" />
